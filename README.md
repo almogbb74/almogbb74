@@ -12,16 +12,18 @@
 
 ###
 
-<h3 align="left">Highly motivated third-year Computer Science major with a strong foundation in Python, Java, C, and embedded systems. Proven ability to deliver full-stack, backend, and mobile applications, with experience building projects that apply core computer science concepts, networking protocols, and algorithms.</h3>
+<h3 align="left">A coding enthusiast with strong foundation in Java, Python, C, and embedded systems. Proven ability to deliver full-stack, backend, and mobile applications, with experience building projects that apply core computer science concepts, networking protocols, and algorithms.</h3>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo" /> 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" height="40" alt="android logo" />
   <img width="12" />
