@@ -42,5 +42,6 @@
 ###
 
 <h3 align="left">🔗 LinkedIn: www.linkedin.com/in/almog-ben-baruch<br></h3>
+<h3 align="left">🔗 Email: almogbb74@gmail.com<br></h3>
 
 ###
